@@ -1,0 +1,9 @@
+﻿{
+  "Type": "Travel",
+  "FullName": "Zohara Duenias",
+  "DateOfBirth": "2024-01-01",
+  "IsSmoker": false,
+  "Amount": 0,
+  "Gender": "Male",
+  "Deductible": 600.00
+}

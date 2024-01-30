@@ -1,0 +1,17 @@
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\bin\Debug\net7.0\passportcard.exe
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\bin\Debug\net7.0\passportcard.deps.json
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\bin\Debug\net7.0\passportcard.runtimeconfig.json
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\bin\Debug\net7.0\passportcard.dll
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\bin\Debug\net7.0\passportcard.pdb
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\obj\Debug\net7.0\passportcard.csproj.AssemblyReference.cache
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\obj\Debug\net7.0\passportcard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\obj\Debug\net7.0\passportcard.AssemblyInfoInputs.cache
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\obj\Debug\net7.0\passportcard.AssemblyInfo.cs
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\obj\Debug\net7.0\passportcard.csproj.CoreCompileInputs.cache
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\obj\Debug\net7.0\passportcard.csproj.CopyComplete
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\obj\Debug\net7.0\passportcard.dll
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\obj\Debug\net7.0\refint\passportcard.dll
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\obj\Debug\net7.0\passportcard.pdb
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\obj\Debug\net7.0\passportcard.genruntimeconfig.cache
+C:\Users\zohar\Desktop\C#\passportcard\passportcard\obj\Debug\net7.0\ref\passportcard.dll
